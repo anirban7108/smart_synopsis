@@ -12,7 +12,7 @@ Smart Synopsis is a conversational AI bot built using **Botpress** that helps us
 
 ## 📸 Screenshot – Workflow Overview
 
-![Smart Synopsis Bot Workflow](./project-workflow.png)
+![Smart Synopsis Bot Workflow](./smart_synopsis-workflow)
 
 ---
 
